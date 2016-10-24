@@ -1,6 +1,6 @@
 #Problema 1
 
-Caluclar si un numero es primo o no?
+Calcular si un numero es primo o no?
 
 ##Hint
 Para saber el resto de dividir un numero por otro hay que usar el operador % (modulo de)
